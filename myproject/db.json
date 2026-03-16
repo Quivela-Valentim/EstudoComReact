@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "id": "9726",
+      "name": "site de vendas",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "1f87",
+      "name": "Banner",
+      "budget": "70000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": [
+        {
+          "name": "meu serviço",
+          "cost": "5",
+          "description": "arroz",
+          "id": "41425758-d44e-4a0e-aada-28087f9d025c"
+        },
+        {
+          "name": "Editar video ",
+          "cost": "10000",
+          "description": "Videomaker",
+          "id": "44c6b75d-dd00-4b74-89e5-130eaf58dc61"
+        }
+      ],
+      "cost": 10005
+    },
+    {
+      "id": "9f9e",
+      "name": "Rede de uma empresa",
+      "budget": "300000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "costs": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planeamento"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
